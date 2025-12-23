@@ -21,7 +21,17 @@ This project simulates how financial institutions design real fraud decision eng
 
 📊 Dataset
 
-Source: Credit Card Fraud Detection Dataset (ULB)
+## Dataset
+
+This project uses the Credit Card Fraud Detection dataset (ULB).
+
+Due to GitHub file size limits, the raw dataset is not included in this repository.
+
+**How to get it**
+1. Download the dataset from Kaggle (Credit Card Fraud Detection).
+2. https://drive.google.com/file/d/1LkEMabd52XxWBTUVa0eqb2AbdUFSC6Je/view?usp=sharing
+
+
 
 Size: ~284,000 transactions
 
